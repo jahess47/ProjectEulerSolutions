@@ -1,0 +1,3 @@
+# Project Euler Solutions
+
+This repository contains the solutions to the first 100 problems of Project Euler in various different languages. This repository is supposed to serve two purposes: to be somewhere I can document and catalog the code I write while working through Project Euler, and to be a resource people can use to help themselves work through their own solutions. As I stated, this repository will only contain solutions to the first 100 problems. This is done to adhere to Project Euler's policy about sharing problem solutions, and also to encourage others to work out their own solutions to the tougher, more complex problems.
